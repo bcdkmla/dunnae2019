@@ -1,2 +1,7 @@
-# dunnae2019
-Education Resources for Dunnae Elementary School Volunteer Work 2019
+# 둔내초등학교 2019
+
+둔내초등학교 2019년도 봉사 활동을 위해 제작한 모든 교육 자료들을 모아놓은 GitHub Repository입니다.
+
+## 팀원
+
+`/* To be added */`
