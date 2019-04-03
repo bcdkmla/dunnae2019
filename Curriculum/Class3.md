@@ -128,9 +128,9 @@ x=6
 y=6
 
 if x <= y:
-	print("A")
+    print("A")
 else:
-	print("B")
+    print("B")
 ```
 
 ```python
@@ -138,9 +138,9 @@ x=7
 y=3
 
 if x == y:
-	print("A")
+    print("A")
 else:
-	print("B")
+    print("B")
 ```
 
 ## 참고: `input()` 함수
