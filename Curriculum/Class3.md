@@ -113,9 +113,9 @@ else:
 ### 다음 프로그램의 결과를 예측해 볼까요?
 
 ```python
-x=3
-y=4
-z=4
+x = 3
+y = 4
+z = 4
 
 if x >= y:
     print("A")
@@ -123,9 +123,15 @@ else:
     print("B")
 ```
 
+<details><summary>정답 확인하기</summary>
+<p>
+`x`는 `y`와 크거나 같지 **않으므로** `B`가 출력됩니다.
+</p>
+</details>
+
 ```python
-x=6
-y=6
+x = 6
+y = 6
 
 if x <= y:
     print("A")
@@ -133,15 +139,29 @@ else:
     print("B")
 ```
 
+<details><summary>정답 확인하기</summary>
+<p>
+`x`는 `y`와 작거나 같으므로 `A`가 출력됩니다.
+</p>
+</details>
+
+
 ```python
-x=7
-y=3
+x = 7
+y = 3
 
 if x == y:
     print("A")
 else:
     print("B")
 ```
+
+<details><summary>정답 확인하기</summary>
+<p>
+`x`와 `y`는 서로 값이 다르므로 `B`가 출력됩니다.
+</p>
+</details>
+
 
 ## 참고: `input()` 함수
 ```python
@@ -184,7 +204,7 @@ print("입력된 값:", value)
 
 ### 주의!  
 `input()` 함수는 언제나 값을 **문자열**로 받아옵니다.  
-만약 우리가 원하는 값이 정수형이라면 `int()`를 사용해서 추가적으로 그 값을 정수형으로 바꿔야 합니다.
+만약 우리가 원하는 값이 정수형이라면 `int()`를 사용해서 추가적으로 그 값을 정수형으로 바꿔야 합니다.  
 입력 받자마자 정수형으로 바꾸려면 `int(input())` 형태로 사용하면 되겠죠?
 
 ## 도전
