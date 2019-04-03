@@ -8,11 +8,11 @@
 ## 숫자형
 ### 정수
 
-양의 정수 (1, 2, 3, 4, 5, 6, 7 ...), 0 그리고 음의 정수 (-1,-2,-3,-4,-5,-6)를 **정수** 라고 한다
+양의 정수 (1, 2, 3, 4, 5, 6, 7 ...), 0 그리고 음의 정수 (-1,-2,-3,-4,-5,-6)를 **정수** 라고 합니다.
 
 ![수직선.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Number-line.svg/1280px-Number-line.svg.png)
 
-파이썬에서는 이러한 정수를 사용하기 위해서는 정수형(Integer)이라는 자료형을 사용해야 한다.
+Python에서는 이러한 정수를 사용하기 위해서는 정수형(Integer)이라는 자료형을 사용해야 합니다.
 
 ```python
 a = 123 
@@ -73,7 +73,12 @@ print(3 % 7) # 3을 7로 나누면 몫은 0이고 나머지는 3입니다. 3이 
 
 ```
 
-<details>
-    <summary>정답 확인하기</summary>
-    <code>print((국어 + 영어 + 수학)/3)</code>
+
+<details><summary>정답 확인하기</summary>
+<p>
+
+```python
+print((국어 + 영어 + 수학)/3)
+```
+</p>
 </details>

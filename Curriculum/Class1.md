@@ -70,11 +70,16 @@
 * 자기가 가장 좋아하는 동물을 출력해보기
 * 자기가 좋아하는 동물을 출력하고, 바로 옆에 다시 좋아하는 식물을 출력하기.
 
-<details>
-    <summary>정답 확인하기</summary>
-    <ul><code>print("조성현")</code></ul>
-    <ul><code>print("고양이")</code></ul>
-    <ul><code>print("고양이", "선인장")</code></ul>
+
+<details><summary>정답 확인하기</summary>
+<p>
+
+```python
+print("조성현")
+print("고양이")
+print("고양이", "선인장")
+```
+</p>
 </details>
 
 ## Python 파일 실행하기
@@ -94,11 +99,17 @@
 ### 도전 과제
 * 미리 `dunnae2019` Repository를 저장해두었다고 할 때, `Snowflake.py`를 실행해보기.
 
-<details>
-    <summary>정답 확인하기</summary>
-    <code>dunnae2019</code> Repository가 바탕화면에 <code>git clone</code> 되어 있다고 할 때,
-    <ul><code>cd Desktop</code></ul>
-    <ul><code>cd dunnae2019</code></ul>
-    <ul><code>cd Snowflake</code></ul>
-    <ul><code>python Snowflake.py</code></ul>
+<details><summary>정답 확인하기</summary>
+<p>
+
+`dunnae2019` Repository가 바탕화면에 `git clone` 되어 있다고 할 때,
+
+```console
+$ cd Desktop
+$ cd dunnae2019
+$ cd Snowflake
+$ python Snowflake.py
+```
+</p>
 </details>
+
