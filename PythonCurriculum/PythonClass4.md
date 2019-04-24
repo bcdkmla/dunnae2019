@@ -73,12 +73,6 @@ a.sort(reverse=True)
 print(a)##--> [23,6,4,2,1]
 ```
 처럼 `sort(reverse=True)`를 사용하면 된다.
-<details><summary>정답 확인하기</summary>
-<p>
-
-```python
-print((국어 + 영어 + 수학)/3)
-```
 
 ## 다음 문제를 풀어 봅시다.
 
