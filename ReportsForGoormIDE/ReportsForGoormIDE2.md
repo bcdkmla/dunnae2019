@@ -1,6 +1,4 @@
-# 두 번째 교실
-
-## 날짜
+# 날짜
 ### 2019년 3월 28일 목요일
 
 ## 활동 인원
@@ -15,10 +13,8 @@
 |최정웅|홍준표 학생의 일대일 멘토||
 |한승민|김민찬 학생의 일대일 멘토||
 
-## 강의 내용 & 수업 자료
-동일한 내용의 수업 자료를 [GitHub 오픈 소스 저장소](https://github.com/bcdkmla/dunnae2019/blob/master/PythonCurriculum/PythonClass1.md)에서도 확인하실 수 있습니다.
-
-<details><summary> 2019년 3월 28일의 수업 내용을 보려면 여기를 클릭하세요. </summary>
+# 강의 내용 & 수업 자료
+동일한 내용의 수업 자료를 [GitHub 오픈 소스 저장소](https://github.com/bcdkmla/dunnae2019/blob/master/PythonCurriculum/PythonClass2.md)에서도 확인하실 수 있습니다.
 
 #### 키워드
 `정수형`, `실수형`, `연산자`
@@ -88,23 +84,15 @@ print(3 % 7) # 3을 7로 나누면 몫은 0이고 나머지는 3입니다. 3이 
 수학 = 100
 
 # 점수들의 평균을 구해 출력하기 위해서는 무엇이 들어가야할까요?
-
 ```
 
-<details><summary>정답 확인하기</summary>
-<p>
+#### 정답
 
 ```python
 print((국어 + 영어 + 수학)/3)
 ```
-</p>
-</details>
 
-</details>
-
-## 수업 리포트
-
-<details><summary>봉사자 김상윤, 배우미 박승리의 수업 리포트</summary>
+# 수업 리포트
 
 ----
 
@@ -126,12 +114,6 @@ print((국어 + 영어 + 수학)/3)
 ### 제안 & 느낀 점
 * 엔트리가 한국어로 되어 있었음에도 Python과 거의 비슷한 수준으로 이해하는 듯 했습니다.
 * 한글 타자 속도가 영문 타자 속도와 거의 비슷한 수준이었기에 굳이 엔트리로 해야 되는 지 의문이 들었습니다.
-
-----
-
-</details>
-
-<details><summary>봉사자 송정훈, 배우미 이윤서의 수업 리포트</summary>
 
 ----
 
@@ -157,12 +139,6 @@ Line Rangers 12제를 다 풀면 충분하겠다고 판단을 하였는데 윤�
 
 ----
 
-</details>
-
-<details><summary>봉사자 이정달, 배우미 임태준의 수업 리포트</summary>
-
-----
-
 ## 봉사자 이정달, 배우미 임태준의 수업 리포트
 
 ### 수업 내용
@@ -182,12 +158,6 @@ Line Rangers 12제를 다 풀면 충분하겠다고 판단을 하였는데 윤�
 
 ----
 
-</details>
-
-<details><summary>봉사자 이태훈, 배우미 김한준의 수업 리포트</summary>
-
-----
-
 ## 봉사자 이태훈, 배우미 김한준의 수업 리포트
 
 ### 수업 내용
@@ -195,12 +165,6 @@ Line Rangers 12제를 다 풀면 충분하겠다고 판단을 하였는데 윤�
 
 ### 제안 & 느낀 점
 엔트리로 먼저 교육을 하니 학생들의 이해도와 흥미가 더욱 높아진 것 같습니다.
-
-----
-
-</details>
-
-<details><summary>봉사자 조성윤, 배우미 김연아의 수업 리포트</summary>
 
 ----
 
@@ -225,12 +189,6 @@ Line Rangers 12제를 다 풀면 충분하겠다고 판단을 하였는데 윤�
 
 ----
 
-</details>
-
-<details><summary>봉사자 최정웅, 배우미 홍준표의 수업 리포트</summary>
-
-----
-
 ## 봉사자 최정웅, 배우미 홍준표의 수업 리포트
 
 ### 수업 내용
@@ -250,12 +208,6 @@ Line Rangers 12제를 다 풀면 충분하겠다고 판단을 하였는데 윤�
 ### 수월했던 점
 프로그래밍 언어를 배우는데 열정이 있어서 배우고자 하는 자세가 잡혀있다는 점이 수업을 그래도 수월하게 만들었습니다.
 
-
-----
-
-</details>
-
-<details><summary>봉사자 한승민, 배우미 김민찬의 수업 리포트</summary>
 
 ----
 
@@ -288,10 +240,4 @@ Line Rangers 12제를 다 풀면 충분하겠다고 판단을 하였는데 윤�
 
 ----
 
-</details>
-
-## 활동 사진
-![class2_image1](img/class2/class2_img1.jpg)
-![class2_image2](img/class2/class2_img2.jpg)
-![class2_image3](img/class2/class2_img3.jpg)
-![class2_image4](img/class2/class2_img4.jpg)
+# 활동 사진

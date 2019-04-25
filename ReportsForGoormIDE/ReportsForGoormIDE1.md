@@ -1,5 +1,5 @@
 # 날짜
-### 2019년 3월 21일 목요일
+## 2019년 3월 21일 목요일
 
 # 활동 인원
 |활동 인원|역할|비고|
@@ -26,7 +26,9 @@
 
 # 강의 내용 & 수업 자료
 동일한 내용의 수업 자료를 [GitHub 오픈 소스 저장소](https://github.com/bcdkmla/dunnae2019/blob/master/PythonCurriculum/PythonClass1.md)에서도 확인하실 수 있습니다.
-</summary>
+
+#### 키워드
+`Python 설치`, `인터프리터 대화형 모드`, `Turtle Demo`
 
 ## Python의 기초
 
@@ -94,16 +96,13 @@
 * 자기가 좋아하는 동물을 출력하고, 바로 옆에 다시 좋아하는 식물을 출력하기.
 
 
-<details><summary>정답 확인하기</summary>
-<p>
+#### 정답 확인하기
 
 ```python
 print("조성현")
 print("고양이")
 print("고양이", "선인장")
 ```
-</p>
-</details>
 
 ## Python 파일 실행하기
 1. `cmd.exe`를 엽니다.
@@ -122,21 +121,18 @@ print("고양이", "선인장")
 ### 도전 과제
 * 미리 `dunnae2019` Repository를 저장해두었다고 할 때, `Snowflake.py`를 실행해보기.
 
-<details><summary>정답 확인하기</summary>
-<p>
+#### 정답
 
 `dunnae2019` Repository가 바탕화면에 `git clone` 되어 있다고 할 때,
 
 ```console
-$ cd Desktop
-$ cd dunnae2019
-$ cd Snowflake
-$ python Snowflake.py
+cd Desktop
+cd dunnae2019
+cd Snowflake
+python Snowflake.py
 ```
-</p>
-</details>
 
-# 수업 리포트
+## 수업 리포트
 
 ----
 
@@ -268,11 +264,4 @@ Snowflake.py를 보여줄 때까지는 관심을 가지며 잘 따라오려고 �
 
 ----
 
-
-
-# 활동 사진
-![class1_image1](img/class1/class1_img1.jpg)
-![class1_image2](img/class1/class1_img2.jpg)
-![class1_image3](img/class1/class1_img3.jpg)
-![class1_image4](img/class1/class1_img4.jpg)
-![class1_image5](img/class1/class1_img5.jpg)
+## 활동 사진
