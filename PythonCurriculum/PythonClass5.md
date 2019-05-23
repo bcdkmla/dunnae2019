@@ -73,15 +73,20 @@ for i in range(2, 8):
 
 <details><summary>정답 확인하기</summary>
 <p>
+
 ### 정답
+	
 #### 1번
+
 ```python
 test_list = [4, 0, -4, -8, -12, -16] # list에 값을 정의해둡니다.
 
 for i in test_list:
     print(i)
 ```
-#### 2	번
+
+#### 2번
+
 ```python
 for i in range(4, -20, -4):
 	print(i)
