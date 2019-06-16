@@ -293,7 +293,5 @@ print(max(A)) # 가장 높은 점수
 
 # 활동 사진
 
-![class3_image1](img/class4/class4_img1.jpg)
-![class3_image2](img/class4/class4_img2.jpg)
-![class3_image3](img/class4/class4_img3.jpg)
-![class3_image4](img/class4/class4_img4.jpg)
+![class4_image1](img/class4/class4_img1.jpg)
+![class4_image2](img/class4/class4_img2.jpg)
